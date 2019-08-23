@@ -1,5 +1,5 @@
 {
-    "name": "pxt-tyny-bit",
+    "name": "pxt-tiny-bit",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -13,5 +13,6 @@
         "test.ts"
     ],
     "public": false,
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:6b937a84-d7e2-4657-c798-d48386bd4aab"
 }
