@@ -1,4 +1,4 @@
-# pxt-tyny-bit
+# pxt-Tynybit
 
 
 
